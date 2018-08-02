@@ -1,1 +1,3 @@
-We did awesome auth with JWT Tokens
+
+Awesome auth code for signin and signup pages
+
